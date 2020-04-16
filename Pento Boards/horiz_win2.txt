@@ -1,0 +1,9 @@
+7
+10
+.XX.X.XX..
+..OO.O....
+XXXXXO.X..
+..XXOXXX.X
+...X.X....
+..OOOO..X.
+..........
